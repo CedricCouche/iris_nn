@@ -1,1 +1,1 @@
-# iris_nn
+# Simple Neural Network on tabular data using Iris Dataset
